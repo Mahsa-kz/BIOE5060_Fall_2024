@@ -1,0 +1,12 @@
+Source: helloworld-pyp
+Section: python
+Priority: optional
+Maintainer: Mahsa Karamzadeh <mahsakaramzadeh77@gmail.com>
+Build-Depends: debhelper-compat (= 13), python3-all
+Standards-Version: 4.6.0
+Homepage: https://github.com/mahesh-maximus/helloworld-pyp
+
+Package: helloworld-pyp
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: A simple Hello World Python package

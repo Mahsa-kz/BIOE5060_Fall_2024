@@ -1,0 +1,9 @@
+Package: helloworld-pyp
+Version: 1.0-1
+Architecture: all
+Maintainer: Mahsa Karamzadeh <mahsakaramzadeh77@gmail.com>
+Installed-Size: 23
+Section: python
+Priority: optional
+Homepage: https://github.com/mahesh-maximus/helloworld-pyp
+Description: A simple Hello World Python package
