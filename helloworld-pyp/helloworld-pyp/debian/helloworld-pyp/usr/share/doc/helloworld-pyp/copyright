@@ -1,7 +1,0 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: helloworld-pyp
-Source: https://github.com/mahesh-maximus/helloworld-pyp
-
-Files: *
-Copyright: Mahsa Karamzadeh <mahsakaramzadeh77@gmail.com>
-License: MIT
